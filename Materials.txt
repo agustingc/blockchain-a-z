@@ -1,0 +1,25 @@
+Hi guys,
+
+Please download the course materials here:
+
+https://www.superdatascience.com/blockchain/
+
+Make sure to get the folder structure first and then populate it with the correct templates for each module!
+
+Cheers,
+
+Kirill & Hadelin
+
+------------------------
+
+Meet your instructors
+
+Hey Data Scientist,
+
+Congrats on enrolling in the Blockchain A-Z course!
+
+Hadelin and I recorded an episode on the SuperDataScience podcast entirely dedicated to blockchain. Check it out below to whet your appetite for the course tutorials!
+
+Click here to get started: https://www.superdatascience.com/podcast-rise-of-blockchain/
+
+Enjoy!
